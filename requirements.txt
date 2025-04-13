@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+matplotlib
+pillow  # For image processing if needed
+requests  # If you fetch data or images online
