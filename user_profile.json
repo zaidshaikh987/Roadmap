@@ -1,0 +1,20 @@
+{
+    "name": "Ayesha Khan",
+    "age": 23,
+    "education": "B.A. in Sociology from Aligarh Muslim University",
+    "skills": ["Communication", "Basic Computer Knowledge", "Customer Service"],
+    "experience": "2 years as a community outreach assistant in a local NGO.",
+    "courses": [
+      {
+        "course_name": "Digital Literacy",
+        "marks": "85%",
+        "date": "2024-11-15"
+      },
+      {
+        "course_name": "Customer Support Training",
+        "marks": "92%",
+        "date": "2025-01-05"
+      }
+    ]
+  }
+  
